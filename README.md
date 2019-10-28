@@ -22,10 +22,10 @@ Or install directly from RubyGems:
 gem install mebots
 ```
 
-hen, to use these functions, you must import the module:
+Then, to use these functions, you must import the module:
 
 ```ruby
-equire 'mebots'
+require 'mebots'
 ```
 
 To create a new bot object:

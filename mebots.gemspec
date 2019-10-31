@@ -6,6 +6,6 @@ Gem::Specification.new do |s|
     s.description = 'Library for easy interaction with MeBots, a helpful API toolkit for managing GroupMe bots.'
     s.authors     = ['Erik Boesen']
     s.email       = 'me@erikboesen.com'
-    s.homepage    = 'https://github.com/ErikBoesen/mebotsrb'
+    s.homepage    = 'https://github.com/MeBots/mebotsrb'
     s.license     = 'MIT'
 end
